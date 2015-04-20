@@ -13,6 +13,9 @@ table{
 	background: linear-gradient(to bottom, #f8f9f9 0%,#e7e9eb 45%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9f9', endColorstr='#e7e9eb',GradientType=0 ); /* IE6-9 */
 }
+tr:first-child{
+	background: #e7e9eb;
+}
 tr:first-child > td{
 	border: 1px solid #9ea5ac;
 }
