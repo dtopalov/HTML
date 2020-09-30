@@ -1,5 +1,7 @@
 body{
 	font-family: Arial;
+	padding: 0px;
+	margin: 0px;
 }
 #top-heading{
 	display: inline-block;
